@@ -4,7 +4,7 @@ This is the Clevyr python package index.
 
 You can use pip to install packages from this repo with the following syntax:
 
-`pip install test_package --extra-index-url=https://clevyr.github.io/python_packages_index/`
+`pip install <package_name> --extra-index-url=https://clevyr.github.io/python_packages_index/`
 
 If you want to leave off the --extra-index-url flag, you can run the following commands to add it to your pip config:
 
